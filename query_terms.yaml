@@ -1,0 +1,7 @@
+query-terms:
+  - 'tenant_name'
+  - 'email'
+  - 'webkey'
+  - 'bearer_token'
+  - 'user_email'
+  - 'username'
